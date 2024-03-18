@@ -13,4 +13,4 @@ Created my GitHub profile to share here some projects in **SQL and :soon: Tablea
 ## **Follow me on Social Media** 
 [Linkedln](https://www.linkedin.com/in/valentyna-kucheriava/)
 
-:envelope_with_arrow:[Outlook](valentynakucheriava.outlook.com)
+:envelope_with_arrow:[Outlook](valentynakucheriava@outlook.com)
