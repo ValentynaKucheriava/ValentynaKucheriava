@@ -15,7 +15,7 @@ My name is Valentyna. Created my GitHub profile to share here some projects in 
 <img title="Excel" alt="Excel" src="https://raw.githubusercontent.com/ValentynaKucheriava/ValentynaKucheriava/main/asset/microsoftexcel-color.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 <img title="SQLServer" alt="SQLServer" src="https://raw.githubusercontent.com/ValentynaKucheriava/ValentynaKucheriava/main/asset/microsoftsqlserver-color.svg" width="40" height="40" style="vertical-align:down; margin:4px"/> 
 <img title="PosgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/ValentynaKucheriava/ValentynaKucheriava/main/asset/postgresql-color.svg" width="40" height="40" style="vertical-align:down; margin:4px"/> 
-<img title="Python" alt="Python" src="https://raw.githubusercontent.com/ValentynaKucheriava/ValentynaKucheriava/main/asset/python-color.svg" width="40" height="40" style="vertical-align:down; 
+<img title="Python" alt="Python" src="https://raw.githubusercontent.com/ValentynaKucheriava/ValentynaKucheriava/main/asset/python-color.svg" width="40" height="40" style="vertical-align:down;" />
 <img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/ValentynaKucheriava/ValentynaKucheriava/main/asset/tableau-color.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 
 
