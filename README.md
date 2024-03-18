@@ -20,7 +20,7 @@ Created my GitHub profile to share here some projects in **SQL and :soon: Tablea
 <hr>
 <p align="center">
 
-<a target="_blank" href="https://www.linkedin.com/in/valentynakucheriava"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/valentyna-kucheriava"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 
 
 
