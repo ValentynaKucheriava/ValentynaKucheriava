@@ -11,18 +11,10 @@ Created my GitHub profile to share here some projects in **SQL and :soon: Tablea
 
   
 ## **Follow me on Social Media** 
-[Linkedln](https://www.linkedin.com/in/valentyna-kucheriava/)
-
-:envelope_with_arrow:[Outlook](valentynakucheriava@outlook.com)
-
-
-
-<hr>
-<p align="center">
 
 <a target="_blank" href="https://www.linkedin.com/in/valentyna-kucheriava"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 
-
+<a target="_blank" href="https://valentynakucheriava.github.io/cv/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
 
 
 
