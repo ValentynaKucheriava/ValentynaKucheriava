@@ -12,7 +12,7 @@ My name is Valentyna. Created my GitHub profile to share here some projects in 
 ## **My skills include**
 
 <p align="center">
-	      <img title="Python" alt="Python" src="https://raw.githubusercontent.com/ValentynaKucheriava/ValentynaKucheriava/main/asset/microsoftexcel-color.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	      <img title="Excel" alt="Excel" src="https://raw.githubusercontent.com/ValentynaKucheriava/ValentynaKucheriava/main/asset/microsoftexcel-color.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
         <img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
 
 
