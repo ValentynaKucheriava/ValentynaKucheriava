@@ -10,11 +10,6 @@ Created my GitHub profile to share here some projects in **SQL and :soon: Tablea
 ## **Tableau Public portfolio :chart_with_upwards_trend:**
 
   
-## **Follow me on Social Media** 
-<br>
-  <br>
-<a target="_blank" href="https://valentynakucheriava.github.io/cv/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
-<a target="_blank" href="https://www.linkedin.com/in/valentyna-kucheriava"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 
 
 
@@ -32,3 +27,14 @@ Created my GitHub profile to share here some projects in **SQL and :soon: Tablea
 https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
 
 https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+
+
+
+## **Follow me on Social Media** 
+<p align="center">
+
+<br>
+  <br>
+<a target="_blank" href="https://valentynakucheriava.github.io/cv/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
+<a target="_blank" href="https://www.linkedin.com/in/valentyna-kucheriava"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+ 
