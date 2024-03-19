@@ -9,18 +9,26 @@ My name is Valentyna.
 ## **SQL Projects**
 *   [SQL-Practice](https://github.com/ValentynaKucheriava/SQL-Project) \- A [StrataScratch](https://www.stratascratch.com/) Practice
 
-## **Tableau Public portfolio**
 
   
-
-## **My skills include**
-
-<p align="center">
-<img title="Excel" alt="Excel" src="https://raw.githubusercontent.com/ValentynaKucheriava/ValentynaKucheriava/main/asset/microsoftexcel-color.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-<img title="SQLServer" alt="SQLServer" src="https://raw.githubusercontent.com/ValentynaKucheriava/ValentynaKucheriava/main/asset/microsoftsqlserver-color.svg" width="40" height="40" style="vertical-align:down; margin:4px"/> 
-<img title="PosgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/ValentynaKucheriava/ValentynaKucheriava/main/asset/postgresql-color.svg" width="40" height="40" style="vertical-align:down; margin:4px"/> 
-<img title="Python" alt="Python" src="https://raw.githubusercontent.com/ValentynaKucheriava/ValentynaKucheriava/main/asset/python-color.svg" width="40" height="40" style="vertical-align:down;" />
-<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/ValentynaKucheriava/ValentynaKucheriava/main/asset/tableau-color.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+## **Languages and Tools:**
+<div id="header" align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a> 
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
+  </a> 
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  </a> 
+   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="sqlserver"/>
+  </a>
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"/>
+  </a>
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau"/>
+  </a>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visual_studio_code"/>
+  </a> 
 
 
 ## **Connect with me** 
@@ -29,5 +37,4 @@ My name is Valentyna.
   <br>
 <a target="_blank" href="https://valentynakucheriava.github.io/cv/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
 <a target="_blank" href="https://www.linkedin.com/in/valentyna-kucheriava"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://public.tableau.com/app/profile/valentyna.kucheriava8786/vizzes"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></img></a>
 <a target="_blank" href="https://valentynakucheriava@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
