@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Valentyna Kucheriava.
 
-My name is Valentyna.
-
-* 🌱 I’m currently learning and practicing **SQL and Python**
+* 🌱 I’m currently learning and practicing **SQL and Python.**
 
 * 👨‍💻 Created my GitHub profile to share here some projects in **SQL and :soon: Tableau :chart_with_upwards_trend:.**
 
