@@ -4,7 +4,7 @@
 
 * 👨‍💻 Created my GitHub profile to share here some projects in **SQL and :soon: Tableau :chart_with_upwards_trend:.**
 
-## **SQL Projects**
+## **SQL Projects:**
 *   [SQL-Practice](https://github.com/ValentynaKucheriava/SQL-Project) \- A [StrataScratch](https://www.stratascratch.com/) Practice
 
 
@@ -29,7 +29,7 @@
   </a> 
 
 
-## **Connect with me** 
+## **Connect with me:** 
 <p align="center">
 <br>
   <br>
