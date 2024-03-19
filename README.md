@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Valentyna Kucheriava.
+### Hi there 👋 I'm Valentyna.
 
 * 🌱 I’m currently learning and practicing **SQL and Python.**
 
