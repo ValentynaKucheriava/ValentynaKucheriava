@@ -19,11 +19,11 @@ My name is Valentyna. Created my GitHub profile to share here some projects in 
 <img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/ValentynaKucheriava/ValentynaKucheriava/main/asset/tableau-color.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 
 
-## **Follow me on Social Media** 
+## **Connect with me** 
 <p align="center">
 <br>
   <br>
 <a target="_blank" href="https://valentynakucheriava.github.io/cv/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
 <a target="_blank" href="https://www.linkedin.com/in/valentyna-kucheriava"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://public.tableau.com/app/profile/valentyna.kucheriava8786/vizzes"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></img></a>
-
+<a target="_blank" href="https://valentynakucheriava@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
