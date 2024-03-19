@@ -5,7 +5,7 @@
 * **:woman_technologist:** Created my GitHub profile to share here some projects in **SQL and :soon: Tableau :chart_with_upwards_trend:.**
 
 ## **SQL Projects:**
-*   [SQL-Practice](https://github.com/ValentynaKucheriava/SQL-Project) \- A [StrataScratch](https://www.stratascratch.com/) Practice
+*   [SQL-Practice](https://github.com/ValentynaKucheriava/SQL-Practice-StrataScratch) \- A [StrataScratch](https://www.stratascratch.com/) Practice
 
 
   
