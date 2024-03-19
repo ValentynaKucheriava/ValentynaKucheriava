@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-My name is Valentyna. 
+My name is Valentyna.
 
-Created my GitHub profile to share here some projects in **SQL and :soon: Tableau :chart_with_upwards_trend:.**
+* 🌱 I’m currently learning and practicing **SQL and Python**
+
+* 👨‍💻 Created my GitHub profile to share here some projects in **SQL and :soon: Tableau :chart_with_upwards_trend:.**
 
 ## **SQL Projects**
 *   [SQL-Practice](https://github.com/ValentynaKucheriava/SQL-Project) \- A [StrataScratch](https://www.stratascratch.com/) Practice
