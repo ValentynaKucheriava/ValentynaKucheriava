@@ -7,6 +7,7 @@
 ## **SQL Projects:**
 *   [SQL-Practice](https://github.com/ValentynaKucheriava/SQL-Practice-StrataScratch) \- A [StrataScratch](https://www.stratascratch.com/) Practice
 *   [SQL-Practice](https://github.com/ValentynaKucheriava/SQL-Practice-HackerRank)  \- A [HackerRank](https://www.hackerrank.com/) Practice
+*   [SQL-Practice](https://github.com/ValentynaKucheriava/SQL-Practice-Leetcode)  \- A [Leetcode](https://www.hackerrank.com/) Practice
 
 
   
