@@ -11,7 +11,7 @@
 
 ## **Python Projects 🐍:** 
 *  Currently undertaking the Data Analysis with Python track on freeCodeCamp 🔜 Planning to share a Knowledge Base derived from my notes.
-*   [My first Python ](https://github.com/ValentynaKucheriava/Python.git)
+*   [My first code in Python using Pandas and Matplotlib](https://github.com/ValentynaKucheriava/Python.git)
   
 ## **Languages and Tools:**
 <div id="header" align="left">
