@@ -9,7 +9,9 @@
 *   [SQL-Practice](https://github.com/ValentynaKucheriava/SQL-Practice-HackerRank)  \- A [HackerRank](https://www.hackerrank.com/) Practice
 *   [SQL-Practice](https://github.com/ValentynaKucheriava/SQL-Practice-Leetcode)  \- A [Leetcode](https://www.hackerrank.com/) Practice
 
-
+## **Python Projects 🐍:** 
+Currently undertaking the Data Analysis with Python track on freeCodeCamp 🔜 Planning to share a Knowledge Base derived from my notes.
+*
   
 ## **Languages and Tools:**
 <div id="header" align="left">
