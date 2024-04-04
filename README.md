@@ -31,7 +31,8 @@
   </a>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visual_studio_code"/>
   </a> 
-
+   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="visual_studio_code"/>
+  </a> 
 
 ## **Connect with me:** 
 <p align="center">
