@@ -12,6 +12,12 @@
 ## **Python Projects 🐍:** 
 *  Currently undertaking the Data Analysis with Python track on freeCodeCamp 🔜 Planning to share a Knowledge Base derived from my notes.
 *   [My first code in Python using Pandas and Matplotlib](https://github.com/ValentynaKucheriava/Python.git)
+
+## **Tableau Public portfolio:**
+
+Check out my Tableau visualization portfolio on the below link.  
+[Click here](https://public.tableau.com/app/profile/valentyna.kucheriava8786/vizzes) to navigate to Tableau Public.
+
   
 ## **Languages and Tools:**
 <div id="header" align="left">
