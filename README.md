@@ -17,7 +17,7 @@
 ## **Tableau Public portfolio:**
 
 Check out my Tableau visualization portfolio on the below link.  
-[Click here](https://public.tableau.com/app/profile/valentyna.kucheriava01/vizzes) to navigate to Tableau Public.
+[Click here](https://public.tableau.com/app/profile/valentyna.kucheriava/vizzes) to navigate to Tableau Public.
 
   
 ## **Languages and Tools:**
