@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Valentyna.
 
-* 🌱 I’m currently learning and practicing **SQL and Python.**
+* 🌱 I’m currently learning and practicing **SQL, Tableau and Python.**
 
-* **:woman_technologist:** Created my GitHub profile to share here some projects in **SQL and :soon: Python :snake:.**
+* **:woman_technologist:** Created my GitHub profile to share here some projects in **SQL, Tableau and :soon: Python :snake:.**
 
 ## **SQL Projects:**
 *   [SQL-Practice](https://github.com/ValentynaKucheriava/SQL-Practice-StrataScratch) \- A [StrataScratch](https://www.stratascratch.com/) Practice
