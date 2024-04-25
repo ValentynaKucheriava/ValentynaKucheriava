@@ -4,7 +4,7 @@
 
 * **:woman_technologist:** Created my GitHub profile to share here some projects in **SQL, Tableau and :soon: Python :snake:.**
 
-## **SQL Projects:**
+## **SQL Projects 💻:**
 *   [SQL-Practice](https://github.com/ValentynaKucheriava/SQL-Practice-StrataScratch) \- A [StrataScratch](https://www.stratascratch.com/) Practice
 *   [SQL-Practice](https://github.com/ValentynaKucheriava/SQL-Practice-Leetcode)  \- A [Leetcode](https://www.hackerrank.com/) Practice
 *   [Case Study - Data Science Salaries 2023](https://github.com/ValentynaKucheriava/Case-Study.git) 
