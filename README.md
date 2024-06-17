@@ -12,6 +12,7 @@
 ## **Python Projects 🐍:** 
 *  Currently undertaking the Data Analysis with Python track on freeCodeCamp 🔜 Planning to share a Knowledge Base derived from my notes.
 *   [My first code in Python using Pandas and Matplotlib](https://github.com/ValentynaKucheriava/Python.git)
+* [Python-Practice](https://github.com/ValentynaKucheriava/Python-Practice)  \- A [StrataScratch](https://www.stratascratch.com/) Practice
 
 ## **Tableau Public portfolio:**
 
