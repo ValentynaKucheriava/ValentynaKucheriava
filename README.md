@@ -5,12 +5,6 @@ My name is Valentyna.
 On my GitHub profile you will mostly find:
  - Some example **SQL** projects
  - Link to my **Tableau Public Portfolio** which showcases various data visualizations made with Tableau software
- - Link to my **KNIME Community Hub Portfolio** where several workflows are hosted that were made with KNIME Analytics Platform
-
-
-### Hi there 👋 I'm Valentyna.
-
-* **:woman_technologist:** Created my GitHub profile to share here some projects in **SQL, Tableau and :soon: Python :snake:.**
 
 ## **SQL Projects 💻:**
 *   [SQL-Practice](https://github.com/ValentynaKucheriava/SQL-Practice-StrataScratch) \- A [StrataScratch](https://www.stratascratch.com/) Practice
