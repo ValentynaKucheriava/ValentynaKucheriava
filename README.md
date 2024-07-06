@@ -1,8 +1,6 @@
 ## Hi There 👋
 
-My name is Valentyna.
-
-On my GitHub profile you will mostly find:
+My name is Valentyna. On my GitHub profile you will mostly find:
  - Some example **SQL** projects
  - Link to my **Tableau Public Portfolio** which showcases various data visualizations made with Tableau software
 
