@@ -19,6 +19,9 @@ My name is Valentyna. On my GitHub profile you will mostly find:
 Check out my Tableau visualization portfolio on the below link.  
 [Click here](https://public.tableau.com/app/profile/valentyna.kucheriava/vizzes) to navigate to Tableau Public.
 
+## **Power BI portfolio:**
+
+
   
 ## **Languages and Tools:**
 <div id="header" align="left">
